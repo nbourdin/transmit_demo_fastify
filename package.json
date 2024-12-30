@@ -1,0 +1,18 @@
+{
+  "name": "transmit_demo_fastify",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@boringnode/transmit": "^0.2.2",
+    "fastify": "^5.2.0",
+    "stream": "^0.0.3"
+  }
+}
